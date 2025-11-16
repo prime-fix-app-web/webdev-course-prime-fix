@@ -1,55 +1,163 @@
+/* ========================================= */
+/* ESTILOS GENERALES PARA TODA LA PÁGINA     */
+/* ========================================= */
 body {
-    margin: 0;
+    margin: 0;  
+    /* EJERCICIO: escribe margin: 30px; ¿Qué pasa?
+       *** pista: agrega espacio alrededor de toda la página *** */
+
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* EJERCICIO:
+       Cambia la fuente por 'Arial' o 'Courier New'.
+       ¿Cómo se siente diferente el texto? */
+
     background-color: #f3f4f6;
+    /* EJERCICIO:
+       Cambia el color por #ffffff (blanco) o #e0e0e0.
+       ¿Qué color prefieres para un perfil personal? */
 }
 
+
+/* ========================================= */
+/* HEADER (ENCABEZADO DEL SITIO)             */
+/* ========================================= */
 header {
     text-align: center;
+    /* EJERCICIO:
+       Prueba cambiando a left o right para ver cómo se mueve el texto. */
+
     padding: 30px;
+    /* EJERCICIO:
+       Cambia el padding a 10px o 60px.
+       ¿Qué tanto espacio se agrega alrededor del contenido? */
+
     background-color: #6c63ff;
+    /* EJERCICIO:
+       Cambia a otro color (por ejemplo: #ff6b6b o #0099ff).
+       ¿Cómo cambia el estilo general? */
+
     color: white;
+    /* EJERCICIO:
+       Cambia el color a black y mira si combina con el fondo. */
 }
 
+
+/* ========================================= */
+/* FOTO DE PERFIL                            */
+/* ========================================= */
 .foto {
     width: 140px;
+    /* EJERCICIO:
+       Cambia el ancho a 180px o 100px.
+       ¿Qué tamaño de foto te gusta más? */
+
     border-radius: 50%;
+    /* EJERCICIO:
+       Cambia a 0% y observa cómo la imagen deja de ser redonda. */
+
     border: 4px solid white;
+    /* EJERCICIO:
+       Cambia white por otro color (blue, red, #333). */
+
     margin-bottom: 10px;
 }
 
+
+/* ========================================= */
+/* CONTENEDOR DE SECCIONES GENERALES         */
+/* ========================================= */
 .seccion {
     background: white;
+
     width: 90%;
     max-width: 750px;
     margin: 20px auto;
+    /* EJERCICIO:
+       Cambia margin a 40px auto → más separación entre secciones. */
+
     padding: 20px;
+    /* EJERCICIO:
+       Cambia padding a 10px o 40px.
+       ¿Qué pasa con el contenido interno? */
+
     border-radius: 12px;
+    /* EJERCICIO:
+       Cambia a 0px (bordes rectos) o 30px (bordes muy redondeados). */
+
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    /* EJERCICIO:
+       Cambia la opacidad (último número): a .5 o .01
+       ¿Qué tan suave o fuerte se ve la sombra? */
 }
 
+
+/* ========================================= */
+/* GALERÍA DE IMÁGENES                       */
+/* ========================================= */
 .galeria {
     display: flex;
+    /* EJERCICIO:
+       Cambia flex por block para ver la diferencia. */
+
     gap: 10px;
+    /* EJERCICIO:
+       Cambia gap a 20px o 5px para separar más o menos las fotos. */
+
     justify-content: center;
+    /* EJERCICIO:
+       Cambia center por space-between o flex-start. */
 }
 
 .galeria img {
     width: 200px;
+    /* EJERCICIO:
+       Cambia a 150px o 250px. */
+
     border-radius: 10px;
+    /* EJERCICIO:
+       Prueba 0px (bordes rectos) o 25px (bordes más redondeados). */
 }
 
+
+/* ========================================= */
+/* LINKS DE REDES SOCIALES                   */
+/* ========================================= */
 .redes a {
     margin: 0 10px;
+    /* EJERCICIO:
+       Cambia el margen horizontal (10px) por 20px
+       para separar más los enlaces. */
+
     text-decoration: none;
+    /* EJERCICIO:
+       Cambia a underline para ver cómo se ve subrayado. */
+
     color: #6c63ff;
+    /* EJERCICIO:
+       Cambia a otro color para hacer tus redes más llamativas. */
+
     font-weight: bold;
+    /* EJERCICIO:
+       Cambia bold por normal. */
 }
 
+
+/* ========================================= */
+/* FOOTER – PIE DE PÁGINA                    */
+/* ========================================= */
 footer {
     text-align: center;
+    /* EJERCICIO:
+       Cambia a left o right solo para probar. */
+
     background-color: #6c63ff;
+    /* EJERCICIO:
+       Usa el mismo color del header para mantener coherencia visual. */
+
     color: white;
+
     padding: 15px;
     margin-top: 20px;
+    /* EJERCICIO:
+       Cambia margin-top a 50px para más espacio antes del footer. */
 }
