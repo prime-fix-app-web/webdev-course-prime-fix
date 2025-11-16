@@ -35,7 +35,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Enlace**: <https://youtu.be/xR8bjXklFh0>
 - **Consejos clave**: Aplicar estilos y depurar errores.
 - **Proyecto Final**:  👈 
-- **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
+- **Consejos Clave**: Valida el código, explora el desarrollo web con Javascript.
 - **Comparte tu Trabajo**: <https://forms.gle/pr4nXS1rXNAwEyNA6>
 
 **¡Guarda y comparte!**
