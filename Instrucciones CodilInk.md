@@ -14,8 +14,9 @@ Permite cargar archivos, editar en tiempo real y previsualizar el resultado.
 ## 📁 2. Estructura recomendada del proyecto
 
 Para que CodiLink cargue correctamente tus archivos, utiliza esta estructura:
-
+```html
 /project-folder
+
 │
 ├── index.html          # Archivo principal
 │
@@ -28,7 +29,7 @@ Para que CodiLink cargue correctamente tus archivos, utiliza esta estructura:
 └── assets/             # Imágenes, íconos, sonidos, etc.
     └── logo.png
 
-
+```html
 
 ### ✔ ¿Por qué así?
 
@@ -47,7 +48,7 @@ En tu `index.html`, agrega:
 ```html
 <link rel="stylesheet" href="css/styles.css">
 <script src="js/app.js"></script>
-
+```html
 ## 🛠 4. Cómo usar CodiLink paso a paso
 
 ### 🔹 1. Ingresa a CodiLink
