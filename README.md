@@ -50,7 +50,7 @@ requiere descargas!** Solo abre tu navegador web.
   
 | Lección # | Actividad | Empezar a Programar |
 |----------|----------|-------------|
-| 1 | Introducción al desarrollo web |  |
+| 1 | Introducción al desarrollo web | <https://acortar.link/TqIrUP> |
 | 2 | Estructura HTML básica | <https://acortar.link/KoFMx5> |
 | 3 | Elementos HTML comunes  | <https://acortar.link/0cjt3n> |
 | 4 | Introducción a CSS y estilos básicos |  |
@@ -88,7 +88,7 @@ NRC 7452
 Links originales de las lecciones:
 
 Lección 1:
-
+<https://acortar.link/TqIrUP>
 Lección 2:
 
 Lección 3:
