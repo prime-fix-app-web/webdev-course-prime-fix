@@ -34,7 +34,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Descripción**: Combinar HTML y CSS para crear una página y errores comunes.
 - **Enlace**: <https://youtu.be/xR8bjXklFh0>
 - **Consejos clave**: Aplicar estilos y depurar errores.
-- **Proyecto Final**:  👈 
+- **Proyecto Final**: <https://acortar.link/xkggR6>  👈 
 - **Consejos Clave**: Valida el código, explora el desarrollo web con Javascript.
 - **Comparte tu Trabajo**: <https://forms.gle/pr4nXS1rXNAwEyNA6>
 
