@@ -24,7 +24,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: https://youtu.be/GIh3QCXFeCc
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
-- **Práctica**: https://acortar.link/0cjt3n👈 **¡Comienza al instante!**
+- **Práctica**: <https://acortar.link/A3Sgem>👈 **¡Comienza al instante!**
 ### Lección 4: Introducción a CSS y estilos básicos (n minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: https://youtu.be/jSkmcyG92Ss?si=gHKZOlc5qZDcJz43
