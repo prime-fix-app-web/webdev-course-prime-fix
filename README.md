@@ -19,7 +19,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: https://youtu.be/sKEaoRhopgA
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: https://acortar.link/KoFMx5 👈 **¡No necesitas registrarte!**
+- **Práctica**: https://shre.ink/o1x2 👈 **¡No necesitas registrarte!**
 ### Lección 3: Elementos HTML comunes (11:49 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: https://youtu.be/GIh3QCXFeCc
@@ -51,7 +51,7 @@ requiere descargas!** Solo abre tu navegador web.
 | Lección # | Actividad | Empezar a Programar |
 |----------|----------|-------------|
 | 1 | Introducción al desarrollo web | <https://acortar.link/TqIrUP> |
-| 2 | Estructura HTML básica | <https://acortar.link/KoFMx5> |
+| 2 | Estructura HTML básica | <https://shre.ink/o1x2> |
 | 3 | Elementos HTML comunes  | <https://acortar.link/0cjt3n> |
 | 4 | Introducción a CSS y estilos básicos |    <https://acortar.link/AOWWHH>  |
 | 5 | Creación de una página web básica y errores comunes | <https://acortar.link/xkggR6> |
@@ -91,6 +91,7 @@ Lección 1:
 <https://codi.link/PCFET0NUWVBFIGh0bWw+DQo8aHRtbD4NCjxoZWFkPg0KICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+DQogIDx0aXRsZT5NaSBQw6FnaW5hPC90aXRsZT4NCjwvaGVhZD4NCg0KPGJvZHk+DQogIDxoMT5IT0xBITwvaDE+DQogIDxwPk1pIG5vbWJyZSBlcyBHaW9yZ2lvLjwvcD4NCjwvYm9keT4NCjwvaHRtbD4=%7CaDEgeyBjb2xvcjogYmx1ZTsgdGV4dC1hbGlnbjogY2VudGVyOyB9DQpwIHtjb2xvcjogcmVkO30=%7CLy9hbGVydCgiSG9sYSIp>
 
 Lección 2:
+https://codi.link/PCFET0NUWVBFIGh0bWw+DQo8aHRtbD4NCjxoZWFkPg0KICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+DQogIDx0aXRsZT5NaSBQw6FnaW5hPC90aXRsZT4NCjwvaGVhZD4NCg0KPGJvZHk+DQogIDxoMT5Ib2xhIG11bmRvPC9oMT4NCiAgPHA+TWkgcHJpbWVyYSBww6FnaW5hIHdlYjwvcD4NCjwvYm9keT4NCjwvaHRtbD4=%7C%7C
 
 Lección 3:
 
