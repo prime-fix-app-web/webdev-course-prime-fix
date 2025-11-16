@@ -14,7 +14,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
 - **Enlace**: https://youtu.be/9QlKVKFCfjA
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: 
+- **Empieza a programar**: <https://acortar.link/TqIrUP>
 ### Lección 2: Estructura HTML básica (10 minutos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: https://youtu.be/sKEaoRhopgA
@@ -88,7 +88,8 @@ NRC 7452
 Links originales de las lecciones:
 
 Lección 1:
-<https://acortar.link/TqIrUP>
+<https://codi.link/PCFET0NUWVBFIGh0bWw+DQo8aHRtbD4NCjxoZWFkPg0KICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+DQogIDx0aXRsZT5NaSBQw6FnaW5hPC90aXRsZT4NCjwvaGVhZD4NCg0KPGJvZHk+DQogIDxoMT5IT0xBITwvaDE+DQogIDxwPk1pIG5vbWJyZSBlcyBHaW9yZ2lvLjwvcD4NCjwvYm9keT4NCjwvaHRtbD4=%7CaDEgeyBjb2xvcjogYmx1ZTsgdGV4dC1hbGlnbjogY2VudGVyOyB9DQpwIHtjb2xvcjogcmVkO30=%7CLy9hbGVydCgiSG9sYSIp>
+
 Lección 2:
 
 Lección 3:
