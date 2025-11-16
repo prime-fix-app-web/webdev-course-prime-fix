@@ -16,7 +16,6 @@ Permite cargar archivos, editar en tiempo real y previsualizar el resultado.
 Para que CodiLink cargue correctamente tus archivos, utiliza esta estructura:
 ```html
 /project-folder
-
 │
 ├── index.html          # Archivo principal
 │
@@ -28,8 +27,9 @@ Para que CodiLink cargue correctamente tus archivos, utiliza esta estructura:
 │
 └── assets/             # Imágenes, íconos, sonidos, etc.
     └── logo.png
-
 ```html
+
+---
 
 ### ✔ ¿Por qué así?
 
